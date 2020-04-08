@@ -16,7 +16,7 @@ return [
     'password' => 'Hasło musi mieć conajmniej sześć znaków i musi być takie samo jak potwierdzenie hasła.',
     'user' => 'Nie ma użytkownika z takim adresem email.',
     'token' => 'Token zmiany hasła jest nieprawidłowy.',
-    'sent' => 'Link do zmiany hasła został wysłay!',
+    'sent' => 'Link do zmiany hasła został wysłany!',
     'reset' => 'Twoje hasło zostało zresetowane!',
 
 ];
